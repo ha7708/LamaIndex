@@ -1,0 +1,15 @@
+# 각 실습 폴더의 가상환경 폴더
+*_env/
+.env/
+venv/
+.venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# VSCode 개인 설정
+.vscode/
+
+# 주피터 노트북 체크포인트
+.ipynb_checkpoints/
